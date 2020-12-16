@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: inventory
 
-connectsTo: inventory-bff
+connectsTo: inventory-management-bff-solution
 
 runtime: js
